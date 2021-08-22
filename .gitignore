@@ -1,0 +1,58 @@
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+nupkg/
+
+# Visual Studio Code
+.vscode
+
+# Rider
+.idea
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Mono auto generated files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio 2015
+.vs/
+/BT_IQM.Services.WebApi/appsettings.local.json
+/BT_IQM.Services.WebApi/Properties/launchSettings.json
+/BT_IQM.Services.WebApi/wwwroot/Documents
+BT_IQM.Services.WebApi/Properties/launchSettings.json
+BT_IQM.Services.WebApi/appsettings.Development.json
+BT_IQM.Services.WebApi/appsettings.json
+BT_IQM.Services.WebApi/Properties/launchSettings.json
+BT_IQM.Services.WebApi/appsettings.Development.json
+BT_IQM.Services.WebApi/appsettings.Development.json
+BT_IQM.Services.WebApi/appsettings.Development.json
+BT_IQM.Services.WebApi/Properties/launchSettings.json
+BT_IQM.Services.WebApi/appsettings.OpsanDEV.json
+BT_IQM.Services.WebApi/BT_IQM.Services.WebApi.csproj
+BT_IQM.Services.WebApi/Properties/PublishProfiles/OpsanDEV.pubxml

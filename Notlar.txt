@@ -1,0 +1,11 @@
+RabbitMQ
+
+Exchanges;
+
+default exchange: direct,
+
+Fanout exchange: butun queue lere gonderýr elýndeký mesajý
+
+topic exchange: routing key lerle bire bir	eþleþmez Ornk: routinkey = usa.weather diðeri europe.weather  routing key *.wheather ise her ikisine de gider 
+
+header exchange: topic gibi ama header ile gonderýlýyor ,ihtiyaca göre ýncelenmeli
